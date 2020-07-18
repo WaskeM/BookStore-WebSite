@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [28/Mar/2020:16:29:28 +0100] "GET /BookStoreWebsite/admin/list_books HTTP/1.1" 200 2350
+0:0:0:0:0:0:0:1 - - [28/Mar/2020:16:29:31 +0100] "GET /BookStoreWebsite/view_category?id=14 HTTP/1.1" 200 183084
+0:0:0:0:0:0:0:1 - - [28/Mar/2020:16:29:36 +0100] "GET /BookStoreWebsite/view_category?id=14 HTTP/1.1" 200 183084
+0:0:0:0:0:0:0:1 - - [28/Mar/2020:16:29:41 +0100] "GET /BookStoreWebsite/ HTTP/1.1" 200 122404
+0:0:0:0:0:0:0:1 - - [28/Mar/2020:16:29:48 +0100] "GET /BookStoreWebsite/view_category?id=14 HTTP/1.1" 200 183084
+0:0:0:0:0:0:0:1 - - [28/Mar/2020:16:29:50 +0100] "GET /BookStoreWebsite/view_category?id=2 HTTP/1.1" 200 79904
+0:0:0:0:0:0:0:1 - - [28/Mar/2020:16:29:51 +0100] "GET /BookStoreWebsite/view_category?id=1 HTTP/1.1" 200 55975
+0:0:0:0:0:0:0:1 - - [28/Mar/2020:16:29:52 +0100] "GET /BookStoreWebsite/view_category?id=11 HTTP/1.1" 200 12470

@@ -1,0 +1,7 @@
+127.0.0.1 - - [08/Feb/2020:21:28:06 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [08/Feb/2020:21:28:16 +0100] "GET /BookStoreWebsite/admin/list_books HTTP/1.1" 200 2350
+0:0:0:0:0:0:0:1 - - [08/Feb/2020:21:28:28 +0100] "POST /BookStoreWebsite/admin/login HTTP/1.1" 200 3330
+0:0:0:0:0:0:0:1 - - [08/Feb/2020:21:28:31 +0100] "GET /BookStoreWebsite/admin/list_books HTTP/1.1" 200 327855
+0:0:0:0:0:0:0:1 - - [08/Feb/2020:21:28:36 +0100] "GET /BookStoreWebsite/admin/list_category HTTP/1.1" 200 4160
+0:0:0:0:0:0:0:1 - - [08/Feb/2020:21:28:44 +0100] "GET /BookStoreWebsite/view_category?id=14 HTTP/1.1" 200 183482
+0:0:0:0:0:0:0:1 - - [08/Feb/2020:21:28:49 +0100] "GET /BookStoreWebsite/ HTTP/1.1" 200 122615

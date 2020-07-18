@@ -1,0 +1,15 @@
+127.0.0.1 - - [27/Mar/2020:16:28:14 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:29:37 +0100] "GET /BookStoreWebsite/admin/update_book HTTP/1.1" 200 2350
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:29:38 +0100] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:29:44 +0100] "GET /BookStoreWebsite/view_category?id=14 HTTP/1.1" 200 183084
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:29:53 +0100] "POST /BookStoreWebsite/admin/login HTTP/1.1" 200 2429
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:29:59 +0100] "POST /BookStoreWebsite/admin/login HTTP/1.1" 200 3378
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:30:04 +0100] "GET /BookStoreWebsite/view_category?id=14 HTTP/1.1" 200 183084
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:30:07 +0100] "GET /BookStoreWebsite/view_category?id=2 HTTP/1.1" 200 79904
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:30:09 +0100] "GET /BookStoreWebsite/view_category?id=14 HTTP/1.1" 200 183084
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:30:16 +0100] "GET /BookStoreWebsite/admin/list_books HTTP/1.1" 200 327905
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:30:20 +0100] "GET /BookStoreWebsite/admin/list_users HTTP/1.1" 200 6637
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:30:21 +0100] "GET /BookStoreWebsite/admin/list_category HTTP/1.1" 200 3754
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:30:22 +0100] "GET /BookStoreWebsite/admin/list_books HTTP/1.1" 200 327905
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:30:59 +0100] "GET /BookStoreWebsite/view_book?id=5 HTTP/1.1" 200 13789
+0:0:0:0:0:0:0:1 - - [27/Mar/2020:16:35:59 +0100] "GET /BookStoreWebsite/view_book?id=4 HTTP/1.1" 200 12591

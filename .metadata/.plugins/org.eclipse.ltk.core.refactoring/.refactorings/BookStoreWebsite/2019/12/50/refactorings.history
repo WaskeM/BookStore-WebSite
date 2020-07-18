@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;newBook&apos; in &apos;com.bookstore.dao.BookDAOTest.testUpdateBook()&apos; to &apos;existBook&apos;&#x0D;&#x0A;- Original project: &apos;BookStoreWebsite&apos;&#x0D;&#x0A;- Original element: &apos;com.bookstore.dao.BookDAOTest.testUpdateBook().newBook&apos;&#x0D;&#x0A;- Renamed element: &apos;newBook&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;newBook&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/test&lt;com.bookstore.dao{BookDAOTest.java[BookDAOTest~testUpdateBook@newBook!2145!2170!2150!2156!QBook;!0!false" name="existBook" references="true" stamp="1576283085168" version="1.0"/>
+</session>
