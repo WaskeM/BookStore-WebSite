@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>EVERGREEN BOOKS - online books store</title>
+<title>My online books store</title>
 <link rel="stylesheet" href="http://127.0.0.1:8887/css/style.css">
 </head>
 <body>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CustomerDAOTest.testCheckLoginSuccess" project="BookStoreWebsite" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="testCheckLoginSuccess" classname="com.bookstore.dao.CustomerDAOTest" time="0.163"/>
+</testrun>

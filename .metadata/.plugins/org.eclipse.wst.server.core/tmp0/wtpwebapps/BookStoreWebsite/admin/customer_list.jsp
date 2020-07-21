@@ -7,8 +7,13 @@
 <head>
 	<meta charset="ISO-8859-1">
 	<link rel="stylesheet" href="http://127.0.0.1:8887/css/style.css">	
+	
+	<!--  
 	<script type="text/javascript" src="http://127.0.0.1:8887/js/jquery-3.4.1.min.js" ></script>
 	<script type="text/javascript" src="http://127.0.0.1:8887/js/jquery.validate.min.js" ></script>
+	-->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.1/dist/jquery.validate.min.js" ></script>
 	
 	<!--
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -22,7 +27,7 @@
 	
 	<div align="center">
 		<h2 class="pageheading">Customer Management</h2>
-		<h3><a href="new_customer">Create New Customer</a></h3>
+		<h3><a href="customer_form.jsp">Create New Customer</a></h3>
 	</div>
 	
 	<c:if test="${message != null}">
@@ -75,9 +80,9 @@
 		$(document).ready(function() {
 			$(".deleteLink").each(function() {
 				$(this).on("click", function(){
-					bookId = $(this).attr("id");
-					if (confirm("Are you sure you want to delete book with ID " + bookId + " ?")){
-						window.location = "delete_book?id=" + bookId;
+					customerId = $(this).attr("id");
+					if (confirm("Are you sure you want to delete customer with ID " + customerId + " ?")){
+						window.location = "delete_customer?id=" + customerId;
 					}
 				});
 			});		
