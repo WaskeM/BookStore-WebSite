@@ -27,7 +27,7 @@
 					</a>
 				</div>
 				<div>
-					rating *****
+					<jsp:directive.include file="book_rating.jsp" />
 				</div>
 				<div>
 					by <i>${book.author}</i>

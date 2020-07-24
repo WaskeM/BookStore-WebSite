@@ -35,7 +35,7 @@
 		</div>
 		
 		<div>
-			<a href="reviews">
+			<a href="list_review">
 				<img src="http://icons.iconarchive.com/icons/seanau/stockicons/32/review-icon.png" /><br/>Reviews
 			</a> 
 		</div>
