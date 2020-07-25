@@ -128,6 +128,11 @@ img.book_large {
 	font-weight:  bold;
 }
 
+#book_title_cart {
+	font-size: large;
+	font-weight:  bold;
+}
+
 #book_author {
 	font-size: large;
 	font-style: italic;

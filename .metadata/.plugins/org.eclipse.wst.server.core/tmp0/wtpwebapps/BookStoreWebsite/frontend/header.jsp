@@ -23,7 +23,7 @@
 				<a href="logout">Logout</a> | &nbsp;
 			</c:if>
 			
-			<a href="View_cart"> Cart</a>
+			<a href="view_cart"> Cart</a>
 		</form>
 	</div>
 	
