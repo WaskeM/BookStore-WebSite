@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="OrderDAOTest.testGetByIdAndCustomerNull" project="BookStoreWebsite" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="testGetByIdAndCustomerNull" classname="com.bookstore.dao.OrderDAOTest" time="0.085"/>
+</testrun>

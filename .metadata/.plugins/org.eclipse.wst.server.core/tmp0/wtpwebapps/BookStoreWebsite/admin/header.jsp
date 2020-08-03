@@ -41,7 +41,7 @@
 		</div>
 		
 		<div>
-			<a href="orders">
+			<a href="list_order">
 				<img src="http://icons.iconarchive.com/icons/fasticon/shop-cart/32/shop-cart-icon.png" /><br/>Orders
 			</a> 
 		</div>

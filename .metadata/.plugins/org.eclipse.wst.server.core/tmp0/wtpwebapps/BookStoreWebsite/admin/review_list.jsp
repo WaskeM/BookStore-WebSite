@@ -50,6 +50,7 @@
 				<td>${review.customer.fullName}</td>
 				<td>${review.reviewTime}</td>
 				<td>
+					
 					<a href="edit_review?id=${review.reviewId}">Edit</a> &nbsp;
 					<a href="javascript:void(0);" class="deleteLink" id="${review.reviewId}">Delete</a>
 				</td>
