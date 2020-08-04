@@ -207,7 +207,17 @@ public class BookDAOTest{
 		System.out.println(book.getAuthor());
 		System.out.println(book.getPrice());
 		assertNotNull(book);
+	}
+	
+	@Test
+	public void testListBestSellingBooks() {
+		List<Book> topBestSellingBooks = bookDao.listBestSellingBooks();
 		
+		for (Book book : topBestSellingBooks) {
+			System.out.println(book.getTitle());
+		}
+		
+		assertEquals(4, topBestSellingBooks.size());
 	}
 	
 	@Test
