@@ -221,6 +221,17 @@ public class BookDAOTest{
 	}
 	
 	@Test
+	public void testListMostFavoredBooks() {
+		List<Book> topFavoredBooks = bookDao.listMostFavoredBooks();
+		
+		for (Book book : topFavoredBooks) {
+			System.out.println(book.getTitle());
+		}
+		
+		assertEquals(4,  topFavoredBooks.size());
+	}
+	
+	@Test
 	public void testCount() {
 		long totalBooks = bookDao.count();
 		

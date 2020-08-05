@@ -10,28 +10,16 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Create New Book</title>
 	<link rel="stylesheet" href="http://127.0.0.1:8887/css/style.css">	
-	<!-- <link rel="stylesheet" href="http://127.0.0.1:8887/css/datapicker.css">  -->
 		
 	<link rel="stylesheet" href="http://127.0.0.1:8887/css/jquery-ui.min.css">	
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="http://127.0.0.1:8887/css/richtext.min.css">
-	
 	
 	<script type="text/javascript" src="http://127.0.0.1:8887/js/jquery-3.4.1.min.js" ></script>
 	<script type="text/javascript" src="http://127.0.0.1:8887/js/jquery.validate.min.js" ></script>
 	<script type="text/javascript" src="http://127.0.0.1:8887/jquery-ui/" ></script>
 	<script type="text/javascript" src="http://127.0.0.1:8887/js/jquery-ui.js" ></script>
 	<script type="text/javascript" src="http://127.0.0.1:8887/js/jquery.richtext.min.js" ></script>
-	
-  	
-  	<!--  
-	  	<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
-	    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-	    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.1/dist/jquery.validate.min.js" ></script>
- 	-->
-
 </head>
 <body>
 	<jsp:directive.include file="header.jsp" />

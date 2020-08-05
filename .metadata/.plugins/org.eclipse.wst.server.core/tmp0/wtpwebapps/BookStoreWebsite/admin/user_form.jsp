@@ -58,6 +58,8 @@
 			<tr>
 				<td>&nbsp;</td>
 			</tr>
+		</table>
+		<table class="form">
 			<tr>
 				<td colspan="2" align="center">
 					<button type="submit">Save</button>&nbsp;&nbsp;&nbsp;

@@ -47,16 +47,24 @@
 
 			<table class="form">
 				<tr>
-					<td align="right">Name</td>
+					<td></td>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<td></td>
+					<td></td>
+					<td></td>
+					<td align="right">Name:</td>
 					<td align="left"><input type="text" id="name"
-						name="name" size="20" value="${category.name}" /></td>
+						name="name" size="25" value="${category.name}" /></td>
 				</tr>
 				<tr>
 					<td>&nbsp;</td>
 				</tr>
+			</table>
+			<table class="form">
 				<tr>
 					<td colspan="2" align="center">
 						<button type="submit">Save</button> 
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 						<button id="buttonCancel">Cancel</button>
 					</td>
 				</tr>
